@@ -528,7 +528,8 @@ class CheckerBoard:
                 isAlive, mcts_player = self.playMCTSMove(mcts_player)
                 isMCTSTurn = False
                 i_play+=1
-                mcts_player.draw()
+
+                #mcts_player.draw()
 
                 if not isAlive:
                     print('Random player won')
