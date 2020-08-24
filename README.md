@@ -12,6 +12,18 @@ These scripts ran on Mac with python 3.7.6 using only Turtle and Numpy packages.
   
 ### MCTS vs MCTS
 
+<p align="center">
+  <img src="img/mcts_v_mcts.gif" width="24%">
+</p>
+
 ### User vs MCTS
 
+<p align="center">
+  <img src="img/user_v_mcts.gif" width="24%">
+</p>
+
 ### MCTS vs Random
+
+<p align="center">
+  <img src="img/mcts_v_random.gif" width="24%">
+</p>
