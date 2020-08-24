@@ -1,2 +1,2 @@
-# Monte-Carlo-Tree-Search-For-Checkers-Game
-Monte-Carlo Tree Search, Checkers game, Turtle
+# Monte-Carlo Tree Search for checkers game
+blabla
