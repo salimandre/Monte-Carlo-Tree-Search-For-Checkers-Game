@@ -2,7 +2,7 @@
 
 ## Installation
 
-These scripts ran on python 3.7.6 using only Turtle and Numpy packages.
+These scripts ran on Mac with python 3.7.6 using only Turtle and Numpy packages.
 
 ## Content
 
