@@ -16,7 +16,7 @@ These scripts ran on Mac with python 3.7.6 using only Turtle and Numpy packages.
   <img src="img/mcts_v_mcts.gif" width="24%">
 </p>
 <p align="center">
-  demo: .5s MCTS (black) vs 1s MCTS (red)
+  demo: 0.5s MCTS (black) vs 1s MCTS (red)
 </p>
 
 ### User vs MCTS
